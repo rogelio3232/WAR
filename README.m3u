@@ -1,0 +1,409 @@
+#EXTM3U
+#EXTINF:-1,A&E SPS
+http://200.229.147.76:4000/play/a0fr/index.m3u8
+#EXTINF:-1,AMC SPS
+http://200.229.147.76:4000/play/a0fz/index.m3u8
+#EXTINF:-1,ANIMAL PLANET CHO
+http://200.229.147.76:4000/play/a0h3/index.m3u8
+#EXTINF:-1,AXN CHO
+http://200.229.147.76:4000/play/a0jd/index.m3u8
+#EXTINF:-1,AXN SPS
+http://200.229.147.76:4000/play/a0fq/index.m3u8
+#EXTINF:-1,AZ CORAZON CHO
+http://200.229.147.76:4000/play/a0ip/index.m3u8
+#EXTINF:-1,AZCORAZON 2 SPS
+http://200.229.147.76:4000/play/a0fn/index.m3u8
+#EXTINF:-1,AZCORAZON SPS
+http://200.229.147.76:4000/play/a0cq/index.m3u8
+#EXTINF:-1,AZMUNDO SPS
+http://200.229.147.76:4000/play/a0e7/index.m3u8
+#EXTINF:-1,AZTECA 7 CHO
+http://200.229.147.76:4000/play/a0jh/index.m3u8
+#EXTINF:-1,AZTECA HONDURAS SPS
+http://200.229.147.76:4000/play/a0e3/index.m3u8
+#EXTINF:-1,AZTECA UNO CHO
+http://200.229.147.76:4000/play/a0j6/index.m3u8
+#EXTINF:-1,BANDAMAX CHO
+http://200.229.147.76:4000/play/a0hw/index.m3u8
+#EXTINF:-1,BETHEL SPS
+http://200.229.147.76:4000/play/a0ej/index.m3u8
+#EXTINF:-1,BIT ME CHO
+http://200.229.147.76:4000/play/a0ik/index.m3u8
+#EXTINF:-1,BITMET SPS
+http://200.229.147.76:4000/play/a0dk/index.m3u8
+#EXTINF:-1,BYU TV SPS
+http://200.229.147.76:4000/play/a0er/index.m3u8
+#EXTINF:-1,CANAL 42 TVS CHO
+http://200.229.147.76:4000/play/a0gj/index.m3u8
+#EXTINF:-1,CANAL 5 EL LIDER CHO NEW
+http://200.229.147.76:4000/play/a0jo/index.m3u8
+#EXTINF:-1,CANAL 5 MXCHO
+http://200.229.147.76:4000/play/a0hb/index.m3u8
+#EXTINF:-1,CANAL 5 SPS
+http://200.229.147.76:4000/play/a0cb/index.m3u8
+#EXTINF:-1,CANAL 5 TGU TLVC
+http://200.229.147.76:4000/play/a0f4/index.m3u8
+#EXTINF:-1,CANAL 51 TGU
+http://200.229.147.76:4000/play/a0fa/index.m3u8
+#EXTINF:-1,CANAL 5HN CHO
+http://200.229.147.76:4000/play/a0g7/index.m3u8
+#EXTINF:-1,CANAL 6 SPS
+http://200.229.147.76:4000/play/a0cc/index.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS CHO
+http://200.229.147.76:4000/play/a0gl/index.m3u8
+#EXTINF:-1,CARTOON NETWORK CHO
+http://200.229.147.76:4000/play/a0gv/index.m3u8
+#EXTINF:-1,CARTOON NETWORK SPS
+http://200.229.147.76:4000/play/a0dd/index.m3u8
+#EXTINF:-1,CARTOONITO CHO
+http://200.229.147.76:4000/play/a0gw/index.m3u8
+#EXTINF:-1,CARTOONITO SPS
+http://200.229.147.76:4000/play/a0cu/index.m3u8
+#EXTINF:-1,CCTV CHO NEW
+http://200.229.147.76:4000/play/a0kl/index.m3u8
+#EXTINF:-1,CGTV CHO NEW
+http://200.229.147.76:4000/play/a0ki/index.m3u8
+#EXTINF:-1,CHOCHO CHO
+http://200.229.147.76:4000/play/a0hl/index.m3u8
+#EXTINF:-1,CHOLUVISION AIRE CHO
+http://200.229.147.76:4000/play/a0ga/index.m3u8
+#EXTINF:-1,CHTV TGU
+http://200.229.147.76:4000/play/a0f2/index.m3u8
+#EXTINF:-1,CINE LATINO CHO NEW
+http://200.229.147.76:4000/play/a0k4/index.m3u8
+#EXTINF:-1,CINE MEXICANO SPS
+http://200.229.147.76:4000/play/a0cg/index.m3u8
+#EXTINF:-1,CINE PLATINO SPS
+http://200.229.147.76:4000/play/a0ce/index.m3u8
+#EXTINF:-1,CINECANAL CHO
+http://200.229.147.76:4000/play/a0hr/index.m3u8
+#EXTINF:-1,CINECANAL SPS
+http://200.229.147.76:4000/play/a0e2/index.m3u8
+#EXTINF:-1,CINEMAX CHO
+http://200.229.147.76:4000/play/a0hm/index.m3u8
+#EXTINF:-1,CINEMAX SPS
+http://200.229.147.76:4000/play/a0fk/index.m3u8
+#EXTINF:-1,CIVILIZATION 3 CHO NEW
+http://200.229.147.76:4000/play/a0k9/index.m3u8
+#EXTINF:-1,CNN EN ESPAÑOL SPS
+http://200.229.147.76:4000/play/a0du/index.m3u8
+#EXTINF:-1,CNN ESPAÑOL CHO NEW
+http://200.229.147.76:4000/play/a0k7/index.m3u8
+#EXTINF:-1,COCO TV CHO
+http://200.229.147.76:4000/play/a0hd/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL CHO
+http://200.229.147.76:4000/play/a0ja/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL SPS
+http://200.229.147.76:4000/play/a0ey/index.m3u8
+#EXTINF:-1,CONGRESO TV SPS
+http://200.229.147.76:4000/play/a0dj/index.m3u8
+#EXTINF:-1,CVS EMPG 2 TGU
+http://200.229.147.76:4000/play/a0fh/index.m3u8
+#EXTINF:-1,CVS MPEG 2 CHO
+http://200.229.147.76:4000/play/a0jk/index.m3u8
+#EXTINF:-1,CVS MPEG4 CHO
+http://200.229.147.76:4000/play/a0jl/index.m3u8
+#EXTINF:-1,CVS MPEG4 SPS
+http://200.229.147.76:4000/play/a0jm/index.m3u8
+#EXTINF:-1,DE PELICULAS CHO
+http://200.229.147.76:4000/play/a0ho/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL CHO NEW
+http://200.229.147.76:4000/play/a0h4/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL SPS
+http://200.229.147.76:4000/play/a0do/index.m3u8
+#EXTINF:-1,DISCOVERY H&H CHO
+http://200.229.147.76:4000/play/a0h6/index.m3u8
+#EXTINF:-1,DISCOVERY H&H SPS
+http://200.229.147.76:4000/play/a0cy/index.m3u8
+#EXTINF:-1,DISCOVERY ID CHO
+http://200.229.147.76:4000/play/a0h7/index.m3u8
+#EXTINF:-1,DISCOVERY ID SPS
+http://200.229.147.76:4000/play/a0cx/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS CHO
+http://200.229.147.76:4000/play/a0gx/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS SPS
+http://200.229.147.76:4000/play/a0fs/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE CHO
+http://200.229.147.76:4000/play/a0iw/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE SPS
+http://200.229.147.76:4000/play/a0fw/index.m3u8
+#EXTINF:-1,DISCOVERY TURBO CHO
+http://200.229.147.76:4000/play/a0hc/index.m3u8
+#EXTINF:-1,DISCOVERY TURBO SPS
+http://200.229.147.76:4000/play/a0fv/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL CHO
+http://200.229.147.76:4000/play/a0gr/index.m3u8
+#EXTINF:-1,DISNEY JR CHO
+http://200.229.147.76:4000/play/a0h2/index.m3u8
+#EXTINF:-1,DISNEY JR CHO NEW
+http://200.229.147.76:4000/play/a0ju/index.m3u8
+#EXTINF:-1,DISNEY 😆 CHO
+http://200.229.147.76:4000/play/a0jg/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA CHO
+http://200.229.147.76:4000/play/a0hg/index.m3u8
+#EXTINF:-1,EBENEZER HONDURAS SPS
+http://200.229.147.76:4000/play/a0ez/index.m3u8
+#EXTINF:-1,EDGE CHO
+http://200.229.147.76:4000/play/a0ij/index.m3u8
+#EXTINF:-1,ENCODER STAR CHO
+http://200.229.147.76:4000/play/a0hp/index.m3u8
+#EXTINF:-1,ENLACE HONDURAS TGU
+http://200.229.147.76:4000/play/a0fb/index.m3u8
+#EXTINF:-1,ENLACE INTERNACIONAL SPS
+http://200.229.147.76:4000/play/a0em/index.m3u8
+#EXTINF:-1,ENLACE Y ENLACE JUVENIL CHO
+http://200.229.147.76:4000/play/a0j4/index.m3u8
+#EXTINF:-1,ESPN + IKS
+http://200.229.147.76:4000/play/a0kv/index.m3u8
+#EXTINF:-1,ESPN 1 CHO
+http://200.229.147.76:4000/play/a0hh/index.m3u8
+#EXTINF:-1,ESPN 1 CHO NEW
+http://200.229.147.76:4000/play/a0jv/index.m3u8
+#EXTINF:-1,ESPN 1 SPS
+http://200.229.147.76:4000/play/a0dr/index.m3u8
+#EXTINF:-1,ESPN 2 CHO
+http://200.229.147.76:4000/play/a0gu/index.m3u8
+#EXTINF:-1,ESPN 2 HD IKS
+http://200.229.147.76:4000/play/a0l2/index.m3u8
+#EXTINF:-1,ESPN 2 SPS
+http://200.229.147.76:4000/play/a0ds/index.m3u8
+#EXTINF:-1,ESPN 3 CHO
+http://200.229.147.76:4000/play/a0ih/index.m3u8
+#EXTINF:-1,ESPN 3 HD IKS
+http://200.229.147.76:4000/play/a0l1/index.m3u8
+#EXTINF:-1,ESPN 4 HD IKS
+http://200.229.147.76:4000/play/a0l3/index.m3u8
+#EXTINF:-1,ESPN 4 CHO
+http://200.229.147.76:4000/play/a0h0/index.m3u8
+#EXTINF:-1,ESPN HD IKS
+http://200.229.147.76:4000/play/a0l0/index.m3u8
+#EXTINF:-1,EUROMOVIE COMAYAGUA
+http://200.229.147.76:4000/play/a0ld/index.m3u8
+#EXTINF:-1,EUROMOVIE SPS
+http://200.229.147.76:4000/play/a0cv/index.m3u8
+#EXTINF:-1,EWTN CHO NEW
+http://200.229.147.76:4000/play/a0kj/index.m3u8
+#EXTINF:-1,EWTN SPS
+http://200.229.147.76:4000/play/a0en/index.m3u8
+#EXTINF:-1,FILM & ART SPS
+http://200.229.147.76:4000/play/a0dt/index.m3u8
+#EXTINF:-1,FILM & ARTS 2 SPS
+http://200.229.147.76:4000/play/a0fu/index.m3u8
+#EXTINF:-1,FOX SPORT 1 CHO NEW
+http://200.229.147.76:4000/play/a0jx/index.m3u8
+#EXTINF:-1,FOX SPORT 1 SPS
+http://200.229.147.76:4000/play/a0dl/index.m3u8
+#EXTINF:-1,FOX SPORT 2 CHO
+http://200.229.147.76:4000/play/a0h1/index.m3u8
+#EXTINF:-1,FOX SPORT 2 SPS
+http://200.229.147.76:4000/play/a0dm/index.m3u8
+#EXTINF:-1,FOX SPORT 3 CHO NEW
+http://200.229.147.76:4000/play/a0jy/index.m3u8
+#EXTINF:-1,FUERZAS ARMADAS TGU
+http://200.229.147.76:4000/play/a0fg/index.m3u8
+#EXTINF:-1,FX CHO
+http://200.229.147.76:4000/play/a0he/index.m3u8
+#EXTINF:-1,FXM CHO
+http://200.229.147.76:4000/play/a0je/index.m3u8
+#EXTINF:-1,GLITZ CHO
+http://200.229.147.76:4000/play/a0gq/index.m3u8
+#EXTINF:-1,GLITZ SPS
+http://200.229.147.76:4000/play/a0eg/index.m3u8
+#EXTINF:-1,GOLDE CHOICE CHO NEW
+http://200.229.147.76:4000/play/a0k1/index.m3u8
+#EXTINF:-1,GOLDEN EDGE CHO NEW
+http://200.229.147.76:4000/play/a0k8/index.m3u8
+#EXTINF:-1,GOLDEN SPS
+http://200.229.147.76:4000/play/a0dp/index.m3u8
+#EXTINF:-1,GOTV SPS
+http://200.229.147.76:4000/play/a0e6/index.m3u8
+#EXTINF:-1,GUATEVISION CHO
+http://200.229.147.76:4000/play/a0iu/index.m3u8
+#EXTINF:-1,GUATEVISION SPS
+http://200.229.147.76:4000/play/a0cn/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD IKS
+http://200.229.147.76:4000/play/a0l9/index.m3u8
+#EXTINF:-1,HBO HD IKS
+http://200.229.147.76:4000/play/a0l7/index.m3u8
+#EXTINF:-1,HBO Plus HD IKS
+http://200.229.147.76:4000/play/a0lb/index.m3u8
+#EXTINF:-1,HBO2 HD IKS
+http://200.229.147.76:4000/play/a0l8/index.m3u8
+#EXTINF:-1,HCH CHO NEW
+http://200.229.147.76:4000/play/a0jr/index.m3u8
+#EXTINF:-1,HCH FIBRA TGU
+http://200.229.147.76:4000/play/a0ff/index.m3u8
+#EXTINF:-1,HGTV CHO
+http://200.229.147.76:4000/play/a0ir/index.m3u8
+#EXTINF:-1,HISPANTV CHO
+http://200.229.147.76:4000/play/a0iz/index.m3u8
+#EXTINF:-1,HISTORY 2 SPS
+http://200.229.147.76:4000/play/a0ft/index.m3u8
+#EXTINF:-1,HISTORY CHANNEL SPS
+http://200.229.147.76:4000/play/a0fl/index.m3u8
+#EXTINF:-1,HISTORY CHO
+http://200.229.147.76:4000/play/a0h8/index.m3u8
+#EXTINF:-1,HTV CHO
+http://200.229.147.76:4000/play/a0hy/index.m3u8
+#EXTINF:-1,HTV SPS
+http://200.229.147.76:4000/play/a0ct/index.m3u8
+#EXTINF:-1,INTI SPS
+http://200.229.147.76:4000/play/a0f1/index.m3u8
+#EXTINF:-1,ISAT CHO
+http://200.229.147.76:4000/play/a0il/index.m3u8
+#EXTINF:-1,JBN SPS
+http://200.229.147.76:4000/play/a0d7/index.m3u8
+#EXTINF:-1,LAS ESTRELLAS SPS
+http://200.229.147.76:4000/play/a0cp/index.m3u8
+#EXTINF:-1,LIBRE CHO
+http://200.229.147.76:4000/play/a0iy/index.m3u8
+#EXTINF:-1,MAYA TV SPS
+http://200.229.147.76:4000/play/a0es/index.m3u8
+#EXTINF:-1,MEGA TV CHO NEW
+http://200.229.147.76:4000/play/a0jn/index.m3u8
+#EXTINF:-1,MEGATV SPS
+http://200.229.147.76:4000/play/a0ek/index.m3u8
+#EXTINF:-1,METROTV 2 CHO
+http://200.229.147.76:4000/play/a0i0/index.m3u8
+#EXTINF:-1,METROTV CHO
+http://200.229.147.76:4000/play/a0gc/index.m3u8
+#EXTINF:-1,MTV CHO
+http://200.229.147.76:4000/play/a0hu/index.m3u8
+#EXTINF:-1,MTV SPS
+http://200.229.147.76:4000/play/a0d3/index.m3u8
+#EXTINF:-1,MUCH MUSIC CHO
+http://200.229.147.76:4000/play/a0ix/index.m3u8
+#EXTINF:-1,NACION TV CHO NEW
+http://200.229.147.76:4000/play/a0kf/index.m3u8
+#EXTINF:-1,NATGEO KIDS CHO
+http://200.229.147.76:4000/play/a0jf/index.m3u8
+#EXTINF:-1,NATGEO LA CHO
+http://200.229.147.76:4000/play/a0j8/index.m3u8
+#EXTINF:-1,NICK JR CHO
+http://200.229.147.76:4000/play/a0gt/index.m3u8
+#EXTINF:-1,NICK JR SPS
+http://200.229.147.76:4000/play/a0dv/index.m3u8
+#EXTINF:-1,NICKELODEON SPS
+http://200.229.147.76:4000/play/a0d8/index.m3u8
+#EXTINF:-1,NTN24 SPS
+http://200.229.147.76:4000/play/a0e1/index.m3u8
+#EXTINF:-1,PARAMOUNT CHO
+http://200.229.147.76:4000/play/a0ji/index.m3u8
+#EXTINF:-1,PARAMOUNT SPS
+http://200.229.147.76:4000/play/a0dq/index.m3u8
+#EXTINF:-1,PASIONES CHO
+http://200.229.147.76:4000/play/a0gm/index.m3u8
+#EXTINF:-1,PRENSA LIBRE CHO
+http://200.229.147.76:4000/play/a0gh/index.m3u8
+#EXTINF:-1,PX SPORT SPS
+http://200.229.147.76:4000/play/a0e0/index.m3u8
+#EXTINF:-1,RCA TGU
+http://200.229.147.76:4000/play/a0f9/index.m3u8
+#EXTINF:-1,RCNOVELAS SPS
+http://200.229.147.76:4000/play/a0ei/index.m3u8
+#EXTINF:-1,RTV EN ESPAÑOL CHO
+http://200.229.147.76:4000/play/a0id/index.m3u8
+#EXTINF:-1,SATELITE CABLECOLOR
+http://200.229.147.76:4000/play/a0j1/index.m3u8
+#EXTINF:-1,SATELITE CONGRESO TN8H CHO
+http://200.229.147.76:4000/play/a0j7/index.m3u8
+#EXTINF:-1,SATELITE GALLO TV
+http://200.229.147.76:4000/play/a0j3/index.m3u8
+#EXTINF:-1,SATELITE VTV
+http://200.229.147.76:4000/play/a0j2/index.m3u8
+#EXTINF:-1,SIN NOMBRE 2 CHO
+http://200.229.147.76:4000/play/a0iv/index.m3u8
+#EXTINF:-1,SIN NOMBRE CHO
+http://200.229.147.76:4000/play/a0is/index.m3u8
+#EXTINF:-1,SONY SPS
+http://200.229.147.76:4000/play/a0g1/index.m3u8
+#EXTINF:-1,SPACE CHO
+http://200.229.147.76:4000/play/a0hk/index.m3u8
+#EXTINF:-1,SPACE SPS
+http://200.229.147.76:4000/play/a0cz/index.m3u8
+#EXTINF:-1,STAR CHANNEL CHO
+http://200.229.147.76:4000/play/a0hf/index.m3u8
+#EXTINF:-1,STAR CHO
+http://200.229.147.76:4000/play/a0hj/index.m3u8
+#EXTINF:-1,STAR CHO NEW
+http://200.229.147.76:4000/play/a0k0/index.m3u8
+#EXTINF:-1,STAR SERIES CHO
+http://200.229.147.76:4000/play/a0jb/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL 2 SPS
+http://200.229.147.76:4000/play/a0fx/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL CHO
+http://200.229.147.76:4000/play/a0hs/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL SPS
+http://200.229.147.76:4000/play/a0eo/index.m3u8
+#EXTINF:-1,SUYAPA TV SPS
+http://200.229.147.76:4000/play/a0d1/index.m3u8
+#EXTINF:-1,SUYAPA TV TGU
+http://200.229.147.76:4000/play/a0f7/index.m3u8
+#EXTINF:-1,SUYAPA Y BASICA CHO
+http://200.229.147.76:4000/play/a0j0/index.m3u8
+#EXTINF:-1,Sony Movies HD IKS
+http://200.229.147.76:4000/play/a0la/index.m3u8
+#EXTINF:-1,TBS CHO
+http://200.229.147.76:4000/play/a0io/index.m3u8
+#EXTINF:-1,TBS SPS
+http://200.229.147.76:4000/play/a0cd/index.m3u8
+#EXTINF:-1,TCM CHO
+http://200.229.147.76:4000/play/a0hq/index.m3u8
+#EXTINF:-1,TDN CHO
+http://200.229.147.76:4000/play/a0gy/index.m3u8
+#EXTINF:-1,TELEBASICA 1 CHO
+http://200.229.147.76:4000/play/a0g5/index.m3u8
+#EXTINF:-1,TELECADENA 7/4 CHO
+http://200.229.147.76:4000/play/a0gf/index.m3u8
+#EXTINF:-1,TELECADENAS 7/4 SPS
+http://200.229.147.76:4000/play/a0ca/index.m3u8
+#EXTINF:-1,TELECADENAS 7/4 TGU TLVC
+http://200.229.147.76:4000/play/a0f5/index.m3u8
+#EXTINF:-1,TELECEIBA SPS
+http://200.229.147.76:4000/play/a0e4/index.m3u8
+#EXTINF:-1,TELECEIBA TGU
+http://200.229.147.76:4000/play/a0f8/index.m3u8
+#EXTINF:-1,TELEHIT CHO
+http://200.229.147.76:4000/play/a0hz/index.m3u8
+#EXTINF:-1,TELEHIT MUSICA SPS
+http://200.229.147.76:4000/play/a0eu/index.m3u8
+#EXTINF:-1,TELEHIT SPS
+http://200.229.147.76:4000/play/a0d5/index.m3u8
+#EXTINF:-1,TELEHIT URBANO CHO
+http://200.229.147.76:4000/play/a0i1/index.m3u8
+#EXTINF:-1,TELEMUNDO CHO
+http://200.229.147.76:4000/play/a0go/index.m3u8
+#EXTINF:-1,TELEMUNDO INTERNACIONAL SPS
+http://200.229.147.76:4000/play/a0g2/index.m3u8
+#EXTINF:-1,TELEMUNDO MIAMI
+http://200.229.147.76:4000/play/a0lc/index.m3u8
+#EXTINF:-1,TELENOVELAS CHO
+http://200.229.147.76:4000/play/a0gn/index.m3u8
+#EXTINF:-1,TELENOVELAS SPS
+http://200.229.147.76:4000/play/a0co/index.m3u8
+#EXTINF:-1,TELEPROGRESO CHO
+http://200.229.147.76:4000/play/a0i7/index.m3u8
+#EXTINF:-1,TELESISTEMA CHO NEW
+http://200.229.147.76:4000/play/a0jq/index.m3u8
+#EXTINF:-1,TELESUR CHO
+http://200.229.147.76:4000/play/a0j5/index.m3u8
+#EXTINF:-1,TELESUR SPS
+http://200.229.147.76:4000/play/a0e5/index.m3u8
+#EXTINF:-1,TELESUR2.0 CHO
+http://200.229.147.76:4000/play/a0jj/index.m3u8
+#EXTINF:-1,TELETICA SPS
+http://200.229.147.76:4000/play/a0ee/index.m3u8
+#EXTINF:-1,TELEVICORIA CHO
+http://200.229.147.76:4000/play/a0gk/index.m3u8
+#EXTINF:-1,TELEVIDA CHO
+http://200.229.147.76:4000/play/a0gi/index.m3u8
+#EXTINF:-1,TEN 10 CHO
+http://200.229.147.76:4000/play/a0i9/index.m3u8
+#EXTINF:-1,TEN TV 10 SPS
+http://200.229.147.76:4000/play/a0d9/index.m3u8
+#EXTINF:-1,TLC 2 SPS
+http://200.229.147.76:4000/play/a0fy/index.m3u8
+#EXTINF:-1,TLC CHO
+http://200.229.147.76:4000/play/a0h9/index.m3u8
+#EXTINF:-1,TLC SPS
+http://200.229.147.76:4000/play/a0cw/index.m3u8
